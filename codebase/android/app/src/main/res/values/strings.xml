@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity Launch Modes</string>
+    <string name="title_activity_standard">StandardActivity</string>
+    <string name="title_activity_single_top">SingleTopActivity</string>
+    <string name="title_activity_single_task">SingleTaskActivity</string>
+    <string name="title_activity_single_instance">SingleInstanceActivity</string>
+    <string name="title_activity_single_instance_per_task">SingleInstancePerTaskActivity</string>
+</resources>
